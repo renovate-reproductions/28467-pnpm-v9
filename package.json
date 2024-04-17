@@ -1,0 +1,12 @@
+{
+  "name": "28467-pnpm-v9",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "5.0.0"
+  }
+}
